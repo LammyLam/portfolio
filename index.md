@@ -1,16 +1,19 @@
 ---
-title: Lam Chi Yuen
+title: <p align="center"> Lam Chi Yuen </p>
 layout: default
 ---
 
 ## Academic Projects
-_Click the title to know more about the projects!_
+_Click the titles to know more about the projects!_
 
-- [Comp Virtual File System](https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem)
+- [Comp Virtual File System](https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem) [<img align="right" width="294" height="222" src="cvfs1.PNG">](https://lammylam.github.io/portfolio/cvfs1.PNG)
     - Written in Java
     - Simulated a file system environment
     - Applied OOP principles extensively
     - Used MVC pattern
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 * * *
 
