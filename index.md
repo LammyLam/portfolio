@@ -18,7 +18,6 @@ layout: default
     - Used Web Socket
     - Multithreaded
     - Handled HTTP requests and headers\
- \
 
 * * *
 
