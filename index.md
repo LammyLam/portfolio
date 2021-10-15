@@ -1,5 +1,3 @@
-# Welcome to my Portfolio!
-
 ## Academic Projects
 
 - [Comp Virtual File System](https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem)
