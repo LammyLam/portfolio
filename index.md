@@ -1,4 +1,4 @@
-## Academic Projects
+## Lam Chi Yuen
 
 - [Comp Virtual File System](https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem)
     - Written in Java
