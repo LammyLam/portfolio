@@ -1,0 +1,7 @@
+192.168.0.223   Fri, 15 Oct 2021 04:38:09 GMT --> Fri, 15 Oct 2021 04:38:09 GMT  404 File Not Found                                        
+192.168.0.223   Fri, 15 Oct 2021 04:38:09 GMT --> Fri, 15 Oct 2021 04:38:28 GMT  200 OK               helloworld.html                      
+192.168.0.223   Fri, 15 Oct 2021 04:38:28 GMT --> Fri, 15 Oct 2021 04:38:29 GMT  404 File Not Found   favicon.ico                          
+192.168.0.223   Fri, 15 Oct 2021 05:46:37 GMT --> Fri, 15 Oct 2021 05:46:37 GMT  200 OK               helloworld.html                      
+192.168.0.223   Fri, 15 Oct 2021 05:46:37 GMT --> Fri, 15 Oct 2021 05:46:37 GMT  200 OK               helloworld.jpg                       
+192.168.0.223   Fri, 15 Oct 2021 05:47:43 GMT --> Fri, 15 Oct 2021 05:47:43 GMT  304 Not Modified     helloworld.html                      
+192.168.0.223   Fri, 15 Oct 2021 05:58:19 GMT --> Fri, 15 Oct 2021 05:58:19 GMT  304 Not Modified     helloworld.html                      
