@@ -11,11 +11,15 @@ layout: default
     - Applied OOP principles extensively
     - Used MVC pattern
 
+* * *
+
 - [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) <img align="right" width="332" height="163" src="web.png">
     - Written in Java 
     - Used Web Socket
     - Multithread
     - Handled HTTP requests and headers
+
+* * *
 
 - [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) <img align="right" width="363" height="287" src="rbm1.PNG">
     - Written in C
