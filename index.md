@@ -13,7 +13,7 @@ layout: default
 
 * * *
 
-- [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) <img align="right" width="294" height="144" src="web.png">
+- [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) [<img align="right" width="294" height="144" src="web.png">](https://lammylam.github.io/portfolio/web.png)
     - Written in Java 
     - Used Web Socket
     - Multithread
