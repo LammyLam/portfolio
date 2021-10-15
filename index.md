@@ -11,8 +11,8 @@ layout: default
     - Applied OOP principles extensively
     - Used MVC pattern
 
-- [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer)
-    - Written in Java <img align="right" width="332" height="163" src="web.png">
+- [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) <img align="right" width="332" height="163" src="web.png">
+    - Written in Java 
     - Used Web Socket
     - Multithread
     - Handled HTTP requests and headers
