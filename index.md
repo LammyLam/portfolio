@@ -1,5 +1,5 @@
 ---
-title: Lam Chi Yuen
+title: <p align="center"> Lam Chi Yuen </p>
 layout: default
 ---
 
