@@ -34,3 +34,10 @@ _Click the titles to know more about the projects!_
 <br/><br/>
 <br/><br/>
 
+* * * 
+
+- [Poker Game](https://github.com/LammyLam/portfolio/tree/master/PokerGame) [<img align="right" width="294" height="239" src="poker.PNG">](https://github.com/LammyLam/portfolio/blob/gh-pages/poker.PNG)
+    - Written in C for Linux
+    - Extensive use of fork() for interprocess communication
+
+
