@@ -16,8 +16,9 @@ layout: default
 - [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) [<img align="right" width="294" height="144" src="web.png">](https://lammylam.github.io/portfolio/web.png)
     - Written in Java 
     - Used Web Socket
-    - Multithread
+    - Multithreaded
     - Handled HTTP requests and headers
+
 
 
 
@@ -25,7 +26,7 @@ layout: default
 
 * * *
 
-- [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) <img align="right" width="294" height="239" src="rbm1.PNG">
+- [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) [<img align="right" width="294" height="239" src="rbm1.PNG">](https://lammylam.github.io/portfolio/rbm1.PNG)
     - Written in C
     - Used system calls featured in Linux
     - Used interprocess communication techniques
