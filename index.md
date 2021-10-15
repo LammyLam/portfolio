@@ -19,10 +19,15 @@ layout: default
     - Multithread
     - Handled HTTP requests and headers
 
+
+
+
+
 * * *
 
-- [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) <img align="right" width="363" height="287" src="rbm1.PNG">
+- [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) <img align="right" width="294" height="239" src="rbm1.PNG">
     - Written in C
     - Used system calls featured in Linux
     - Used interprocess communication techniques
     - Made use of process scheduling algorithms in operating systems
+
