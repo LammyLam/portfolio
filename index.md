@@ -17,8 +17,8 @@ layout: default
     - Written in Java 
     - Used Web Socket
     - Multithreaded
-    - Handled HTTP requests and headers test
-<br />
+    - Handled HTTP requests and headers
+<br/><br/>
 
 * * *
 
