@@ -34,7 +34,6 @@ _Click the titles to know more about the projects!_
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 * * * 
 
