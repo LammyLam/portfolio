@@ -12,7 +12,7 @@ layout: default
     - Used MVC pattern
 
 - [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer)
-    - Written in Java <img align="right" src="web.png">
+    - Written in Java <img align="right" width="332" height="163" src="web.png">
     - Used Web Socket
     - Multithread
     - Handled HTTP requests and headers
