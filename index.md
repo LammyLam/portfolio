@@ -27,4 +27,6 @@ layout: default
     - Used system calls featured in Linux
     - Used interprocess communication techniques
     - Made use of process scheduling algorithms in operating systems
+<br/><br/>
+<br/><br/>
 
