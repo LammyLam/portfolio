@@ -20,7 +20,6 @@ layout: default
     - Handled HTTP requests and headers
 \
 \
-\
 * * *
 
 - [Room Booking System](https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager) [<img align="right" width="294" height="239" src="rbm1.PNG">](https://lammylam.github.io/portfolio/rbm1.PNG)
