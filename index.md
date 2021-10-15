@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## Academic Projects
+_Click the title to know more about the projects!_
 
 - [Comp Virtual File System](https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem)
     - Written in Java
