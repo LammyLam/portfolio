@@ -33,6 +33,8 @@ _Click the titles to know more about the projects!_
     - Made use of process scheduling algorithms in operating systems
 <br/><br/>
 <br/><br/>
+<br/><br/>
+<br/><br/>
 
 * * * 
 
