@@ -1,5 +1,6 @@
 ---
 title: Lam Chi Yuen
+layout: default
 ---
 
 ## Academic Projects
