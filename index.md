@@ -11,7 +11,9 @@ _Click the titles to know more about the projects!_
     - Simulated a file system environment
     - Applied OOP principles extensively
     - Used MVC pattern
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 * * *
 
 - [Simple Web Server](https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer) [<img align="right" width="294" height="144" src="web.png">](https://lammylam.github.io/portfolio/web.png)
