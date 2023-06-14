@@ -123,6 +123,7 @@ body {
 }
 
 .banner-img-container {
+	position: relative;
 	height: 50%;
 	display: flex;
 	justify-content: center;
@@ -131,8 +132,29 @@ body {
 	overflow: hidden;
 }
 
-.banner-img {
+.banner-img-front {
 	height: 100%;
+	z-index: 100;
+	transition: all 0.5s;
+}
+
+.banner-img-back {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	height: 100%;
+	transition: all 0.5s;
+	opacity: 0;
+}
+
+.banner-img-container:hover .banner-img-front {
+	opacity: 0;
+}
+
+.banner-img-container:hover .banner-img-back {
+	opacity: 1;
 }
 
 .divider {
