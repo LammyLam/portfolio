@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lammy's Portfolio</title>
+		<link rel="stylesheet" href="./index.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+		/>
+		<script src="./index.js"></script>
+	</head>
+	<body>
+		<div class="navbar">
+			<a class="item-navbar" href="#about">About Me</a>
+			<a class="item-navbar" href="#projects">Projects</a>
+			<a class="img-navbar-container" href="#banner">
+				<img src="./icon.gif" alt="" />
+			</a>
+			<a class="item-navbar" href="#work">Work</a>
+			<a class="item-navbar" href="#contacts">Contact</a>
+		</div>
+		<div class="page">
+			<section class="banner" id="banner">
+				<div class="banner-text-container anim-left-2-right">
+					<h1 class="text-very-large mb-medium">Hey! I'm Lammy.</h1>
+					<h2 class="text-medium mb-medium">
+						A computing undergraduate of PolyU.
+					</h2>
+					<h3 class="text-small mb-small">
+						My interest lies in web applications, both frontend and
+						backend.
+					</h3>
+					<h3 class="text-small mb-small">
+						Sometimes I also experiment with game development.
+					</h3>
+					<h3 class="text-small mb-small">
+						And no, that's not how I look in real life.
+					</h3>
+				</div>
+				<div class="banner-img-container anim-right-2-left">
+					<img class="banner-img" src="./icon.gif" alt="Lam's Icon" />
+				</div>
+			</section>
+			<div class="divider anim-fade" id="about"></div>
+			<section class="about anim-left-2-right">
+				<h1 class="text-large mb-medium">About Me</h1>
+				<p class="text-small text-justified mb-medium">
+					As a senior computing student at the Hong Kong Polytechnic
+					University, I usually play around with technologies related
+					to web applications, mainly JavaScript and CSS. I am keen on
+					exploring the boundaries of these languages, and achieving
+					the most with the fewest tools. My goal is to be an
+					experienced full-stack developer (still a long way to go).
+				</p>
+				<p class="text-small text-justified mb-medium">
+					Even though I am an introvert person (not surprising for a
+					computing guy), I am passionate about teaching stuffs to
+					others, as it is a great way to have a firmer grasp of what
+					I have learnt.
+				</p>
+				<p class="text-small text-justified">
+					I regard myself as a guy with a weird sense of humour,
+					always babbling about silly stuffs like memes that will
+					crack no one but me up. The way I think gives me inspiration
+					on what to create (you can see how a goose attempts to
+					murder ducks below).
+				</p>
+			</section>
+			<div class="divider anim-fade" id="projects"></div>
+			<section class="projects">
+				<h1 class="text-large mb-small anim-up-2-down">
+					Featured Projects
+				</h1>
+				<h2 class="text-small mb-medium anim-up-2-down">
+					Recent projects that are more polished. Hover for more info!
+				</h2>
+				<div class="project-container">
+					<div class="project">
+						<div class="project-left anim-left-2-right">
+							<h2 class="text-monospace-medium mb-small">
+								Capstone Project
+							</h2>
+							<h1 class="text-medium mb-small">JSync</h1>
+							<h1 class="text-small mb-medium">
+								2022 ⁠– Now (WIP)
+							</h1>
+							<p class="text-small mb-medium">
+								A front-end only web application built to teach
+								and visualize asynchronous JavaScript,
+								specifically the event loop. Developed using
+								React, the project involves manipulating
+								JavaScript code with the aid of syntactic
+								analysis. Currently a work in progress.
+							</p>
+							<div class="category-container">
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									React
+								</h2>
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									JavaScript
+								</h2>
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									CSS
+								</h2>
+							</div>
+						</div>
+						<div class="project-right anim-right-2-left">
+							<img
+								class="project-img-cover-no-border"
+								src="./jsync.png"
+								alt="The Home Page of JSync"
+							/>
+							<img
+								class="project-img-slide-jsync show"
+								src="./jsync-1.png"
+								alt="Screenshot of JSync"
+							/>
+							<img
+								class="project-img-slide-jsync"
+								src="./jsync-2.png"
+								alt="Screenshot of JSync"
+							/>
+							<img
+								class="project-img-slide-jsync"
+								src="./jsync-3.png"
+								alt="Screenshot of JSync"
+							/>
+						</div>
+					</div>
+					<div class="project">
+						<div class="project-left anim-right-2-left">
+							<h2 class="text-monospace-medium mb-small">
+								Game Development Project
+							</h2>
+							<h1 class="text-medium mb-small">
+								The Siu Mei Hunter
+							</h1>
+							<h1 class="text-small mb-medium">2022</h1>
+							<p class="text-small mb-medium">
+								A parodial shooter built in Unity3D. The game
+								revolves around a goose who was forced to hunt
+								ducks, and eventually fight his own boss, a Siu
+								Mei chef. (Oscarworthy plot). As one of the
+								developers, I have focused on C# for the scripts
+								and Blender for creating the 3D models.
+							</p>
+							<div class="category-container">
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									Unity3D
+								</h2>
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									Blender
+								</h2>
+								<h2
+									class="text-monospace-small bg-lighter text-padding"
+								>
+									C#
+								</h2>
+							</div>
+						</div>
+						<div class="project-right anim-left-2-right">
+							<img
+								class="project-img-cover"
+								src="./siumei.png"
+								alt="The Main Menu of The Siu Mei Hunter"
+							/>
+							<img
+								class="project-img-slide-siumei show"
+								src="./siumei-1.png"
+								alt="Screenshot of The Siu Mei Hunter"
+							/>
+							<img
+								class="project-img-slide-siumei"
+								src="./siumei-2.png"
+								alt="Screenshot of The Siu Mei Hunter"
+							/>
+							<img
+								class="project-img-slide-siumei"
+								src="./siumei-3.png"
+								alt="Screenshot of The Siu Mei Hunter"
+							/>
+							<img
+								class="project-img-slide-siumei"
+								src="./siumei-4.png"
+								alt="Screenshot of The Siu Mei Hunter"
+							/>
+							<img
+								class="project-img-slide-siumei"
+								src="./siumei-5.png"
+								alt="Screenshot of The Siu Mei Hunter"
+							/>
+						</div>
+					</div>
+				</div>
+			</section>
+			<div class="divider anim-fade" id="toy-projects"></div>
+			<section class="toy-projects">
+				<h1 class="text-large mb-small anim-up-2-down">Toy Projects</h1>
+				<h2 class="text-small mb-medium anim-up-2-down">
+					Some of my older academic projects, mostly for learning
+					programming concepts.
+				</h2>
+				<div class="toy-projects-container">
+					<a
+						class="toy-project anim-left-2-right"
+						href="https://github.com/LammyLam/portfolio/tree/master/CompVirtualFileSystem/CVFSProject"
+					>
+						<h1 class="text-medium mb-medium text-toy-project">
+							Virtual File System
+						</h1>
+						<h1 class="text-small text-toy-project">
+							A Java program for simulating a file system. Mainly
+							for applying OOP concepts.
+						</h1>
+						<img class="img-toy-project" src="./cvfs.png" alt="" />
+						<div class="overlay-toy-project"></div>
+					</a>
+
+					<a
+						class="toy-project anim-right-2-left"
+						href="https://github.com/LammyLam/portfolio/tree/master/SimpleWebServer"
+					>
+						<h1 class="text-medium mb-medium text-toy-project">
+							Simple Web Server
+						</h1>
+						<h1 class="text-small text-toy-project">
+							A simple Java Web Server for learning web socket and
+							HTTP requests.
+						</h1>
+						<img class="img-toy-project" src="./web.png" alt="" />
+						<div class="overlay-toy-project"></div>
+					</a>
+					<a
+						class="toy-project anim-left-2-right"
+						href="https://github.com/LammyLam/portfolio/tree/master/RoomBookingManager"
+					>
+						<h1 class="text-medium mb-medium text-toy-project">
+							Room Booking System
+						</h1>
+						<h1 class="text-small text-toy-project">
+							A CLI program written in C for simulating room
+							booking. Serves as a practice for system calls and
+							interprocess communication in Linux.
+						</h1>
+						<img class="img-toy-project" src="./rbm.png" alt="" />
+						<div class="overlay-toy-project"></div>
+					</a>
+					<a
+						class="toy-project anim-right-2-left"
+						href="https://github.com/LammyLam/portfolio/tree/master/PokerGame"
+					>
+						<h1 class="text-medium mb-medium text-toy-project">
+							Poker Game
+						</h1>
+						<h1 class="text-small text-toy-project">
+							A "game" written in C to practice fork() and
+							interprocess communication.
+						</h1>
+						<img class="img-toy-project" src="./poker.png" alt="" />
+						<div class="overlay-toy-project"></div>
+					</a>
+				</div>
+			</section>
+			<div class="divider anim-fade" id="work"></div>
+			<section class="work">
+				<h1 class="text-large mb-small anim-up-2-down">Work</h1>
+				<h2 class="text-small mb-medium anim-up-2-down">
+					My work experience so far.
+				</h2>
+				<div class="job">
+					<div class="job-left anim-left-2-right">
+						<h2 class="text-monospace-medium mb-small">
+							Odoo Hong Kong
+						</h2>
+						<h1 class="text-medium mb-small">
+							Technical Consultant Intern
+						</h1>
+						<h1 class="text-small mb-medium">2022</h1>
+						<p class="text-small text-justified">
+							A really cool internship with very cool people. I
+							was given real tasks instead of random works like
+							writing documentation. I get to work in the backend
+							using Python and PostgreSQL, modifying website
+							templates and handling customer data. In the
+							frontend, I might need to take care of the
+							JavaScript code in Owl components. It was also an
+							excellent time to hone my communication skills.
+						</p>
+					</div>
+					<div class="job-right anim-right-2-left">
+						<img class="img-job" src="./odoo.png" alt="Odoo Icon" />
+					</div>
+				</div>
+			</section>
+			<div class="divider anim-fade"></div>
+			<section class="hobbies">
+				<h1 class="text-large mb-small anim-up-2-down">Hobbies</h1>
+				<h2 class="text-small mb-medium anim-up-2-down">
+					In my free time I create gameplay and translation videos.
+				</h2>
+				<table class="hobbies-table">
+					<tbody>
+						<tr>
+							<td>
+								<iframe
+									width="100%"
+									height="100%"
+									class="hobby-iframe"
+									src="https://www.youtube.com/embed/jwq5xJcnlBQ"
+								>
+								</iframe>
+							</td>
+							<td>
+								<iframe
+									width="100%"
+									height="100%"
+									class="hobby-iframe"
+									src="https://www.youtube.com/embed/U4hrLfFpTC8"
+								></iframe>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</section>
+			<div class="divider anim-fade" id="contacts"></div>
+			<section class="contacts">
+				<h1 class="text-large mb-small anim-up-2-down">Contact</h1>
+				<h2 class="text-small mb-medium anim-up-2-down">
+					Hit me up using the links below!
+				</h2>
+				<div class="contact-container">
+					<a href="mailto:19052423d@connect.polyu.hk"
+						><i class="fa fa-envelope icon-contact"></i
+					></a>
+					<a href="mailto:chi.yuen.lammy.lam@gmail.com"
+						><i class="fa fa-brands fa-google icon-contact"></i
+					></a>
+					<a href="https://www.linkedin.com/in/chi-yuen-lam-lammy"
+						><i class="fa fa-brands fa-linkedin icon-contact"></i
+					></a>
+
+					<a href="http://discordapp.com/users/338526747064795137"
+						><i class="fa fa-brands fa-discord icon-contact"></i
+					></a>
+				</div>
+			</section>
+
+			<div class="filler"></div>
+
+			<section class="credit">
+				<div class="text-monospace-small">
+					Created by Lam Chi Yuen, Lammy
+				</div>
+			</section>
+		</div>
+	</body>
+</html>
